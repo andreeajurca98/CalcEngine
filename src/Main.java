@@ -152,7 +152,7 @@ public class Main {
          double result = execute(opCode, leftVal, rightVal);
          System.out.println(result);
         }
-
+//smth
     static double execute(char opCode, double leftVal, double rightVal){
         double result;
         switch (opCode) {
